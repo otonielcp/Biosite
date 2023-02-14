@@ -1,5 +1,15 @@
-# Biosite
-Meet Amisadia Lorenzo, a compassionate and dedicated social worker who has dedicated her life to improving the lives of those in need. With a passion for helping others, Amisadia brings a unique combination of expertise, empathy, and commitment to every case she takes on.
+
+# WEB 200 Fundamentals of Web Development
+## Contributors
+- Peter Itskovich
+- Otoniel Cortez
+
+
+
+
+Meet Amisadia Lorenzo,
+
+a compassionate and dedicated social worker who has dedicated her life to improving the lives of those in need. With a passion for helping others, Amisadia brings a unique combination of expertise, empathy, and commitment to every case she takes on.
 
 With over a decade of experience in the field of social work, Amisadia has helped numerous families and individuals overcome obstacles and achieve their goals. From working with at-risk youth to helping individuals recover from addiction, Amisadia has a deep understanding of the challenges faced by those in need.
 
